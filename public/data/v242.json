@@ -1,0 +1,186 @@
+{
+  "mapleVersion": "242",
+  "dataVersion": "1",
+  "mobData": [
+    {
+      "mobId": 1,
+      "name": "Doubtful Lady",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "101-300",
+      "difficultyRating": 2,
+      "location": "Friendstory Party Quest",
+      "monColProperties": {
+        "category": "Friends",
+        "page": 1,
+        "line": 1
+      },
+      "metadata": {
+        "imageUrl": "https://i.imgur.com/2CePtUF.png"
+      }
+    },
+    {
+      "mobId": 2,
+      "name": "Dark Eye from Another Dimension",
+      "category": "partyQuestMob",
+      "type": 1,
+      "starRank": 2,
+      "mobLevel": "120-139",
+      "difficultyRating": 2,
+      "location": "Ludibrium Party Quest",
+      "monColProperties": {
+        "category": "Ludus Lake",
+        "page": 1,
+        "line": 5
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/9300014/render/stand"
+      }
+    },
+    {
+      "mobId": 3,
+      "name": "Lord Pirate",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "130-149",
+      "difficultyRating": 2,
+      "location": "Lord Pirate Party Quest",
+      "monColProperties": {
+        "category": "Mu Lung Garden",
+        "page": 1,
+        "line": 5
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/2600326/render/stand"
+      }
+    },
+    {
+      "mobId": 4,
+      "name": "Soaring Eagle",
+      "category": "partyQuestMob",
+      "type": 0,
+      "starRank": 1,
+      "mobLevel": "150-169",
+      "difficultyRating": 2,
+      "location": "Dragon Rider Party Quest",
+      "monColProperties": {
+        "category": "Minar Forest",
+        "page": 3,
+        "line": 4
+      },
+      "metadata": {
+        "imageUrl": "https://i.imgur.com/JmLns5J.png"
+      }
+    },
+    {
+      "mobId": 5,
+      "name": "Rex",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "170-189",
+      "difficultyRating": 2,
+      "location": "Rex Party Quest",
+      "monColProperties": {
+        "category": "El Nath Mountains",
+        "page": 2,
+        "line": 5
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/9300281/render/stand"
+      }
+    },
+    {
+      "mobId": 6,
+      "name": "Trash Can",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "60-90",
+      "difficultyRating": 2,
+      "location": "Tang Yoon Party Quest",
+      "monColProperties": {
+        "category": "Victoria Island",
+        "page": 10,
+        "line": 5
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/9300681/render/stand"
+      }
+    },
+    {
+      "mobId": 7,
+      "name": "Papa Pixie",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "70-180",
+      "difficultyRating": 2,
+      "location": "Orbis Cross World Party Quest",
+      "monColProperties": {
+        "category": "El Nath Mountains",
+        "page": 1,
+        "line": 4
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/9300039/render/stand"
+      }
+    },
+    {
+      "mobId": 8,
+      "name": "Poison Golem",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "70-180",
+      "difficultyRating": 2,
+      "location": "Ellin Forest Cross World Party Quest",
+      "monColProperties": {
+        "category": "Ludus Lake",
+        "page": 3,
+        "line": 4
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/9300180/render/stand"
+      }
+    },
+    {
+      "mobId": 9,
+      "name": "Frankenroid",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "70-99",
+      "difficultyRating": 2,
+      "location": "Romeo and Juliet Party Quest",
+      "monColProperties": {
+        "category": "Nihal Desert",
+        "page": 2,
+        "line": 5
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/9300139/render/stand"
+      }
+    },
+    {
+      "mobId": 10,
+      "name": "Angry Frankenroid",
+      "category": "partyQuestMob",
+      "type": 3,
+      "starRank": 4,
+      "mobLevel": "70-99",
+      "difficultyRating": 2,
+      "location": "Romeo and Juliet Party Quest",
+      "monColProperties": {
+        "category": "Nihal Desert",
+        "page": 2,
+        "line": 5
+      },
+      "metadata": {
+        "imageUrl": "https://maplestory.io/api/SEA/220/mob/9300140/render/stand"
+      }
+    }
+  ]
+}
