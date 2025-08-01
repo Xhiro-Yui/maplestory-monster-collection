@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/*noinspection CssInvalidAtRule*/
+@theme {
+  --color-brand: #B4D455;
+  --color-primary: #1D4ED8;
+  /* etc. — Tailwind will auto-generate utilities like bg-brand, text-primary */
+}
