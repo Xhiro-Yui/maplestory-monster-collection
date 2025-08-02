@@ -1,3 +1,5 @@
+import React from "react";
+
 type SidebarSorterProps = {
     onSortChange: (option: string | null) => void;
     currentSort: string | null; // 👈 add this prop
