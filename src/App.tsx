@@ -22,7 +22,7 @@ const App = () => {
 
     // Load mob data and checklist from localStorage
     useEffect(() => {
-        fetch("/data/v243-1.json")
+        fetch(`${import.meta.env.BASE_URL}data/v243-1.json`)
             .then((res) => res.json())
             .then((json) => {
                 const data: MobData[] = json.mobData || [];
@@ -63,9 +63,18 @@ const App = () => {
             {/* Main content */}
             <div className="flex-1 p-4">
                 <h1 className="text-3xl font-bold text-center mb-6 flex items-center justify-center gap-x-4">
-                    <img src="/assets/derpcol.webp" alt="Derp Mon Col" className="w-32 h-32"/>
+                    <img
+                        src={`${import.meta.env.BASE_URL}assets/derpcol.webp`}
+                        alt="Derp Mon Col"
+                        className="w-32 h-32"
+                    />
                     Monster Collection
-                    <img src="/assets/derpcol.webp" alt="Derp Mon Col" className="w-32 h-32"/>
+                    <img
+                        src={`${import.meta.env.BASE_URL}assets/derpcol.webp`}
+                        alt="Derp Mon Col"
+                        className="w-32 h-32"
+                    />
+
                 </h1>
 
                 {sortOption ? (
